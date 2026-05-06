@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# YOLOv8 model weights (large files — download on first run)
+*.pt
+*.onnx
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+runs/
+*.log
