@@ -1,0 +1,14 @@
+bash
+cp -r /home/claude/audio-world /mnt/user-data/outputs/audio-world && find /mnt/user-
+data/outputs/audio-world -type f | sort
+Output|
+/mnt/user-data/outputs/audio-world/ •gitignore
+/mnt/user-data/outputs/audio-world/LICENSE
+/mnt/user-data/outputs/audio-world/README .md
+/mnt/user-data/outputs/audio-world/main.py
+/mnt/user-data/outputs/audio-world/requirements.txt
+/mnt/user-data/outputs/audio-world/utils/__init__•py
+/mnt/user-data/outputs/audio-world/utils/audio.py
+/mnt/user-data/outputs/audio-world/utils/detection.py
+/mnt/user-data/outputs/audio-world/utils/evaluation.py
+/mnt/user-data/outputs/audio-world/utils/visualization.py
